@@ -1,0 +1,11 @@
+{
+  "name": "animaLar-backend",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/guipmendes/AnimaLar-backend.git",
+  "author": "Guilherme Mendes <gui_pmendes@hotmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
